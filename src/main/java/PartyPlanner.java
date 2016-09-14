@@ -1,8 +1,8 @@
 public class PartyPlanner {
-  public int mGuests;
-  public int mFood;
-  public int mDrinks;
-  public int mBand;
+  private int mGuests;
+  private int mFood;
+  private int mDrinks;
+  private int mBand;
 
   public PartyPlanner(int guests, int food, int drinks, int band) {
     mGuests = guests;
